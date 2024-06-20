@@ -1,0 +1,4 @@
+Pytorch_env/
+model.pth
+data/
+wine.csv
